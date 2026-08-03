@@ -1,0 +1,316 @@
+question,reference_answer,prediction,accuracy,token_precision,token_recall,token_f1,bert_precision,bert_recall,bert_f1,judge_correctness,judge_relevance,judge_completeness,judge_clarity,judge_groundedness,judge_overall,judge_reason,judge_raw_response
+Apakah maksud Persekutuan?,Persekutuan bermaksud penyatuan beberapa buah negeri yang membentuk sebuah negara bersekutu.,"Maksud Persekutuan ialah penyatuan beberapa negeri dan membentuk sebuah negara bersekutu. Berikut adalah poin-poin penting yang berkaitan dengan maksud ini:
+
+1. Terdapat Kerajaan Persekutuan (Kerajaan Pusat).
+2. Terdapat juga Kerajaan Negeri.
+3. Kuasa dibahagikan dalam sistem pentadbiran.
+
+Ini merupakan penjelasan utama tentang maksud Persekutuan berdasarkan sumber 1 yang diberikan.",0,0.18,0.818181818,0.295081967,,,,5,5,4,5,5,5,"Jawapan chatbot memberikan definisi yang tepat dan lengkap tentang Persekutuan, dengan menyertakan elemen-elemen penting seperti Kerajaan Persekutuan, Kerajaan Negeri, dan pembahagian kuasa.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 4,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan definisi yang tepat dan lengkap tentang Persekutuan, dengan menyertakan elemen-elemen penting seperti Kerajaan Persekutuan, Kerajaan Negeri, dan pembahagian kuasa.""
+}
+```"
+Apakah maksud konfederasi?,Konfederasi ialah gabungan antara negeri yang berdaulat dalam satu ikatan yang longgar. Kuasa negeri dikekalkan dan kedaulatan negeri terpelihara.,Konfederasi ialah gabungan antara negeri yang berdaulat dalam satu ikatan yang longgar. Kuasa negeri dikekalkan dan kedaulatan negeri terpelihara.,1,1,1,1,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berdasar pada jawapan rujukan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berdasar pada jawapan rujukan.""
+}
+```"
+Siapakah Yang di_pertuan Besar Negeri Sembilan yang pertama?,Tuanku Muhammad ibni Tuanku Antah dilantik sebagai Yang di-Pertuan Besar Negeri Sembilan yang pertaa pada taun 1898.,Yang di-Pertuan Besar Negeri Sembilan yang pertama adalah Tuanku Muhammad ibni Tuanku Antah. Ini ditetapkan pada tahun 1898 setelah perjanjian untuk pembentukan Konfederasi Negeri Sembilan dilakukan pada tahun 1895.,0,0.466666667,0.777777778,0.583333333,,,,5,5,5,5,5,5,"Jawapan memberikan maklumat yang tepat dan lengkap mengenai Yang di-Pertuan Besar Negeri Sembilan yang pertama, termasuk nama dan tahun pelantikannya, serta memberikan konteks tambahan mengenai Konfederasi Negeri Sembilan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan memberikan maklumat yang tepat dan lengkap mengenai Yang di-Pertuan Besar Negeri Sembilan yang pertama, termasuk nama dan tahun pelantikannya, serta memberikan konteks tambahan mengenai Konfederasi Negeri Sembilan.""
+}
+```"
+Bilakah Persekutuan 1896 ditubuhkan?,Persekutuan 1896 ditubuhkan berdasarkan Perjanjian Persekutuan 1895 dan mula berkuat kuasa pada tahun 1896.,"Persekutuan 1896 ditubuhkan pada tahun 1896. Berikut adalah ringkasan maklumat yang berkaitan:
+
+- Berikutan peluasan pengaruh British, sebuah Persekutuan ditubuhkan berdasarkan Perjanjian Persekutuan 1895.
+- Persekutuan tersebut terdiri daripada empat negeri Melayu: Sarawak, Sabah (Malaysia Barat saat itu), Negeri Sembilan dan Melaka.
+- Persekutuan ini berkuasa pada tahun 1896 dan dikenali sebagai NNMB (Negeri-Negeri Melayu Bersatu).
+- Persekutuan NNMB tidak mempunyai kuasa khusus antara Kerajaan Persekutuan dengan Kerajaan Negeri.
+- Pentadbiran banyak dibuat oleh Residen Jeneral di Kuala Lumpur.",0,0.16,0.857142857,0.269662921,,,,5,5,5,5,5,5,"Jawapan chatbot memberikan jawapan yang tepat dan lengkap, merujuk kepada Perjanjian Persekutuan 1895 dan memberikan maklumat tambahan yang relevan mengenai pembentukan dan ciri-ciri Persekutuan 1896.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan jawapan yang tepat dan lengkap, merujuk kepada Perjanjian Persekutuan 1895 dan memberikan maklumat tambahan yang relevan mengenai pembentukan dan ciri-ciri Persekutuan 1896.""
+}
+```"
+Mengapakah Malayan Union gagal diteruskan?,Malayan Union gagal diteruskan kerana mendapat bantahan daripada Raja-raja Melayu dan orang Melayu.,"Malayan Union gagal diteruskan kerana:
+
+1. Ada bantahan daripada Raja-raja Melayu dan orang Melayu.
+2. Konsep kesatuan yang diusulkan tidak disyorkan oleh pihak-pihak tersebut.
+
+Ini menunjukkan kecenderungan untuk mempertahankan kedaulatan negara-negaranya masing-masing, sehingga gagalnya Malayan Union.",0,0.325,0.928571429,0.481481481,,,,5,5,4,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada fakta yang benar mengenai kegagalan Malayan Union.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 4,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada fakta yang benar mengenai kegagalan Malayan Union.""
+}
+```"
+Bilakah Malaysia ditubuhkan?,Malaysia ditubuhkan pada 16 September 1963.,"Malaysia ditubuhkan pada 16 September 1963. Berikut adalah maklumat yang berkaitan:
+
+- Jawatankuasa Setia Kawan Malaysia (JSKM) ditubuhkan pada 23 Julai 1961 untuk mendapatkan sokongan terhadap pembentukan Malaysia.
+- Rundingan berhubung dengan pembentukan Malaysia diadakan di London pada November 1961.
+- Kuasa Kerajaan Persekutuan dan Kerajaan Negeri dibahagikan kepada tiga peringkat, termasuk kerajaan tempatan Sabah dan Sarawak.
+- Rundingan London menetapkan untuk ditubuhkannya sebuah suruhanjaya untuk meninjau reaksi penduduk di Sarawak dan Sabah.
+
+Namun, Malaysia tidak ditubuhkan pada 23 Julai 1961 kerana masih perlu mendapatkan sokongan dari penduduk tempatan. Pembentukan Malaysia sebenarnya dilaksanakan pada 16 September 1963.",0,0.064516129,1,0.121212121,,,,5,5,4,4,5,5,"Jawapan chatbot memberikan jawapan yang tepat dan lengkap, serta memberikan maklumat tambahan yang relevan untuk menjelaskan konteks pembentukan Malaysia.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 4,
+  ""clarity"": 4,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan jawapan yang tepat dan lengkap, serta memberikan maklumat tambahan yang relevan untuk menjelaskan konteks pembentukan Malaysia.""
+}
+```"
+Apakah tiga peringkat pentadbiran di Malaysia?,1. Kerajaan Persekutuan 2. Kerajaan Negeri 3. Kerajaan Tempatan.,"Tiga peringkat pentadbiran di Malaysia adalah:
+
+1. Kerajaan Persekutuan
+2. Kerajaan Negeri
+3. Kerajaan Tempatan
+
+Kerajaan Persekutuan mempunyai kuasa untuk membuat undang-undang bagi seluruh Malaysia, sedangkan kerajaan negeri dan tempatan bertanggungjawab terhadap beberapa aspek pentadbiran di negara-negara individu.",0,0.225,1,0.367346939,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada fakta yang benar.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada fakta yang benar.""
+}
+```"
+Apakah Senarai Bersama?,Senarai Bersama ialah perkara yang membolehkan Parlimen dan DUN menggubal undang-undang untuk perkara yang sama,"Senarai Bersama ialah perkara yang membolehkan Parlimen dan DUN menggubal undang-undang untuk perkara yang sama. Antara perkara yang terkandung dalam Senarai Bersama termasuk:
+
+1. Kebajikan awam.
+2. Biasiswa.
+3. Perlindungan haiwan liar dan taman negara.
+4. Perancangan bandar dan luar bandar.
+5. Kesihatan awam, kebersihan dan pencegahan penyakit.
+6. Kebudayaan dan sukan.
+7. Perumahan",0,0.290909091,1,0.450704225,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada jawapan rujukan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada jawapan rujukan.""
+}
+```"
+Apakah tujuan penubuhan FELDA?,FELDA ditubuhkan untuk mengurus dan menyalurkan bantuan kewangan kepada kerajaan negeri bagi pembangunan tanah baharu.,"FELDA ditubuhkan dengan tujuan sebagai berikut:
+
+1. Menguruskan
+2. Menyalurkan bantuan kewangan kepada Kerajaan Negeri
+3. Melaksanakan rancangan pembangunan tanah baharu",0,0.523809524,0.733333333,0.611111111,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berlandaskan jawapan rujukan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berlandaskan jawapan rujukan.""
+}
+```"
+Apakah tujuan penubuhan FELCRA?,"FELCRA ditubuhkan untuk menyatukan, memulihkan dan membangunkan tanah kerajaan negeri yang terbiar di seluruh negeri.","FELCRA ditubuhkan dengan tujuan:
+
+1. Untuk menyatukan tanah Kerajaan Negeri yang terbiar di seluruh negara.
+2. Untuk memulihkan tanah tersebut.
+3. Untuk membangunkannya.",0,0.52173913,0.8,0.631578947,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan didasarkan sepenuhnya pada jawapan rujukan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan didasarkan sepenuhnya pada jawapan rujukan.""
+}
+```"
+Apakah maksud gagasan Malaysia?,Gagasan Malaysia ialah konsep menggabungkan beberapa bekas tanah jajahan British di Asia Tenggara.,"Gagasan Malaysia merujuk kepada konsep yang menggabungkan beberapa bekas tanah jajahan British di Asia Tenggara. Berikut adalah maklumat lebih lanjut tentang gagasan ini:
+
+1. Idea Gagasan Malaysia:
+   - Mula dari gerakan nasionalis sebelum Perang Dunia Kedua.
+   - Tujuan utama: Mendapatkan kemerdekaan wilayah Alam Melayu daripada kuasa penjajah British, Belanda dan Amerika Syarikat.
+   - Idea gagasan Malaysia dicadangkan oleh Tunku Abdul Rahman Putra al-Haj.
+
+2. Konsep Gagasan Malaysia:
+   - Penggabungan Persekutuan Tanah Melayu dengan Sarawak, Sabah, Singapura dan Brunei untuk merdeka dalam satu sistem Kerajaan Persekutuan.
+   
+3. Reaksi Terhadap Pembentukan Malaysia:
+   - Pemimpin dan penduduk Singapura menyokong pembentukan Malaysia.
+   - Parti lain seperti Parti Buruh Singapura bersetuju tetapi menganggap gabungan ini sukar dilaksanakan.
+   - Parti Rakyat Singapura menentang penggabungan.
+   - Barisan Sosialis juga menentang penggabungan kerana menganggap pembentukan Malaysia sebagai penjajahan baharu.
+
+4. Reaksi Negara Jiran:
+   - Presiden Filipina Diosdado Macapagal menentang pembentukan Malaysia kerana menuntut wilayah Sabah.
+   - Kerajaan Persek",0,0.085106383,0.923076923,0.155844156,,,,5,5,5,5,5,5,"Jawapan chatbot memberikan definisi yang tepat tentang gagasan Malaysia, memberikan maklumat yang lengkap dan terstruktur dengan baik, serta tidak mengandungi fakta rekaan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan definisi yang tepat tentang gagasan Malaysia, memberikan maklumat yang lengkap dan terstruktur dengan baik, serta tidak mengandungi fakta rekaan.""
+}
+```"
+Siapakah yang mencadangkan idea pembentukan Malaysia?,"Tunku Abdul Rahman Putra Al-Haj mencadangkan penggabungan Tanah Melayu, Sarawak, Sabah, Singapura dan Brunei.","Idea pembentukan Malaysia dicadangkan oleh:
+
+1. Tunku Abdul Rahman Putra al-Haj
+2. Kerajaan Indonesia (terutamanya Dr. Mohammad Hatta dan Dr. Subandrio)
+3. Kerajaan Thailand
+
+Mereka mencadangkan idea ini untuk memperkuat usaha ke arah keamanan di rantau Asia Tenggara, walaupun terdapat penentangan. Idea ini kemudiannya diteruskan demi kebaikan rakyat.",0,0.163265306,0.533333333,0.25,,,,5,5,5,5,5,5,"Jawapan chatbot memberikan jawapan yang tepat dan lengkap, dengan menyebut Tunku Abdul Rahman sebagai pencadang utama dan juga menyertakan input daripada Indonesia, serta menjelaskan tujuan di sebalik cadangan tersebut.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan jawapan yang tepat dan lengkap, dengan menyebut Tunku Abdul Rahman sebagai pencadang utama dan juga menyertakan input daripada Indonesia, serta menjelaskan tujuan di sebalik cadangan tersebut.""
+}
+```"
+Apakah konsep Melayu Raya?,Konsep Melayu Raya ialah idea menggabungkan Tanah Melayu dengan Indonesia.,"Konsep Melayu Raya adalah sebuah idea yang pernah dilahirkan oleh beberapa nasionalis sebelum Perang Dunia Kedua. Ia menggabungkan wilayah Alam Melayu, yaitu Tanah Melayu (kini Malaysia), dengan penjajahan British, Belanda, dan Amerika Syarikat. Tujuan utama dari idea ini adalah mendapatkan kemerdekaan daripada kuasa penjajah tersebut.
+
+Idea ini pernah dilahirkan oleh beberapa tokoh seperti Ibrahim Haji Yaakob, Harun Aminurrashid, Ahmad Boestamam, Ishak Haji Muhammad (Pak Sako), dan Dr. Burhanuddin al-Helmi sebelum Perang Dunia Kedua.
+
+Namun, idea ini tidak berhasil dilaksanakan kerana beberapa faktor termasuk penolakan dari pihak British yang mengemukakan idea penyatuan wilayah penguasaan mereka di Asia Tenggara dalam satu sistem pentadbiran dan ekonomi.",0,0.076923077,0.8,0.140350877,,,,5,5,5,5,5,5,"Jawapan chatbot memberikan definisi konsep Melayu Raya yang tepat, relevan dengan soalan, lengkap dengan tokoh-tokoh utama dan faktor-faktor yang menyebabkan kegagalan idea tersebut.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan definisi konsep Melayu Raya yang tepat, relevan dengan soalan, lengkap dengan tokoh-tokoh utama dan faktor-faktor yang menyebabkan kegagalan idea tersebut.""
+}
+```"
+Bilakah Tunku Abdul Rahman mengumumkan pembentukan Malaysia?,Pada 27 Mei 1961.,"Tunku Abdul Rahman Putra al-Haj mengumumkan pembentukan Malaysia pada 27 Mei 1961. Maklumat ini diambil dari sumber [Sumber 1] yang berkata, ""Tunku Abdul Rahman Putra al-Haj mengumumkan pembentukan Malaysia pada 27 Mei 1961.""",0,0.114285714,1,0.205128205,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berlandaskan fakta.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berlandaskan fakta.""
+}
+```"
+Siapakah yang menentang pembentukan Malaysia di Brunei?,A.M. Azhari dan Parti Rakyat Brunei.,"Menurut maklumat dalam sumber-sumber yang diberikan, parti Rakyat Brunei yang dipimpin oleh A.M. Azahari adalah yang menentang pembentukan Malaysia di Brunei.
+
+Mereka berpendapat bahawa:
+1. Pembentukan Malaysia merupakan cara kerajaan British untuk mengekalkan pengaruh.
+2. Brunei akan kehilangan sebahagian besar kekayaannya jika menyertai gabungan ini.",0,0.106382979,0.714285714,0.185185185,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berlandaskan fakta yang sepadan dengan jawapan rujukan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berlandaskan fakta yang sepadan dengan jawapan rujukan.""
+}
+```"
+Mengapakah Filipina menentang pembentukan Malaysia?,Kerana Filipina menuntut wilayah Sabah.,"Filipina menentang pembentukan Malaysia kerana:
+
+1. Menuntut wilayah Sabah.
+2. Pemimpin dan penduduk di Sabah kecewa dengan cadangan pembentukan Malaysia.
+3. Mereka khawatir tentang pemimpin tempatan yang perlu mengubah diri untuk politik, pilihan raya dan berkerajaan sendiri.
+4. Jarak antara Sarawak, Sabah dengan Kuala Lumpur yang jauh juga menimbulkan masalah.",0,0.1,1,0.181818182,,,,5,5,5,5,5,5,"Jawapan chatbot memberikan penjelasan yang tepat dan lengkap mengenai sebab-sebab Filipina menentang pembentukan Malaysia, dengan merujuk kepada tuntutan wilayah Sabah dan faktor-faktor lain yang relevan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan penjelasan yang tepat dan lengkap mengenai sebab-sebab Filipina menentang pembentukan Malaysia, dengan merujuk kepada tuntutan wilayah Sabah dan faktor-faktor lain yang relevan.""
+}
+```"
+Apakah tujuan penubuhan Jawatankuasa Setia Kawan Malaysia (JSKM)?,1. Menyakinkan penduduk Sarawak dan Sabah 2. Mendapatkan kata sepakat 3. Mengumpul pandangan rakyat,"Jawatankuasa Setia Kawan Malaysia (JSKM) ditubuhkan dengan tujuan utama sebagai berikut:
+
+1. Untuk memberi kefahaman kepada pemimpin tempatan tentang rancangan pembentukan Malaysia.
+2. Untuk mendapatkan sokongan terhadap pembentukan Malaysia dari pemimpin dan penduduk tempatan.
+3. Untuk memainkan peranan penting dalam merealisasikan usaha membentuk Malaysia.
+
+JSKM melakukan ini dengan mengadakan mesyuarat di beberapa bandar, termasuk Jesselton (Kuching), Kuala Lumpur, Kuching, dan Singapura. Mereka juga membuat keputusan menyokong rancangan pembentukan Malaysia dalam salah satu mesyuaratnya.",0,0.082191781,0.428571429,0.137931034,,,,5,5,5,5,5,5,"Jawapan chatbot memberikan penjelasan yang tepat dan lengkap mengenai tujuan penubuhan JSKM, dengan merujuk kepada objektif utama dan aktiviti yang dijalankan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot memberikan penjelasan yang tepat dan lengkap mengenai tujuan penubuhan JSKM, dengan merujuk kepada objektif utama dan aktiviti yang dijalankan.""
+}
+```"
+Bilakah referendum Singapura diadakan?,Pada awal bulan September 1962.,Referendum Singapura diadakan pada awal bulan September 1962.,0,0.625,1,0.769230769,,,,5,5,5,5,5,5,"Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada jawapan rujukan.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan chatbot tepat, relevan, lengkap, jelas, dan berasas pada jawapan rujukan.""
+}
+```"
+Apakah fungsi Suruhanjaya Cobbold?,Meninjau reaksi Sarawak dan Sabah terhadap pembentukan Malaysia.,"Suruhanjaya Cobbold mempunyai fungsi sebagai berikut:
+
+1. Dibentuk pada bulan Januari 1962.
+2. Memandang dan menilai situasi politik, sosial dan ekonomi di Malaysia Barat (Sabah dan Sarawak).
+3. Menyelaraskan hubungan antara kerajaan British dan Persekutuan Tanah Melayu terhadap perundangan-peraturan yang berlaku.
+4. Melakukan lawatan ke 35 pusat untuk memperoleh maklumat tentang situasi di Malaysia Barat.
+5. Menyerahkan laporan kepada kerajaan British dan Persekutuan Tanah Melayu mengenai hasil perunjukran mereka.",0,0.071428571,0.625,0.128205128,,,,4,4,4,5,5,4,"Jawapan chatbot memberikan penjelasan yang komprehensif dan tepat mengenai fungsi Suruhanjaya Cobbold, termasuk maklumat sejarah dan objektifnya.","```json
+{
+  ""correctness"": 4,
+  ""relevance"": 4,
+  ""completeness"": 4,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 4,
+  ""reason"": ""Jawapan chatbot memberikan penjelasan yang komprehensif dan tepat mengenai fungsi Suruhanjaya Cobbold, termasuk maklumat sejarah dan objektifnya.""
+}
+```"
+Bilakah  konfrotasi Indonesia bermula?,Pada 20 Januari 1963.,"Konfrontasi antara Indonesia dan Malaysia bermula pada 20 Januari 1963. Ini ditandai dengan dasar konfrontasi yang diumumkan oleh Menteri Luar Negeri Indonesia, Dr. Subandrio, terhadap Malaysia.",0,0.153846154,1,0.266666667,,,,5,5,5,5,5,5,"Jawapan memberikan maklumat yang tepat, relevan, lengkap, jelas, dan berasas pada fakta yang benar.","```json
+{
+  ""correctness"": 5,
+  ""relevance"": 5,
+  ""completeness"": 5,
+  ""clarity"": 5,
+  ""groundedness"": 5,
+  ""overall"": 5,
+  ""reason"": ""Jawapan memberikan maklumat yang tepat, relevan, lengkap, jelas, dan berasas pada fakta yang benar.""
+}
+```"
